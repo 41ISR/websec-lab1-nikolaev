@@ -35,10 +35,10 @@
 
 4. Структура и содержание сайта
 
--   **Страницы**: количество страниц, структура URL.
--   **Метаданные**: информация из мета-тегов (title, description, keywords).
+-   **Страницы**: Документация, Скачать, Новости, Блоги и Инструменты Kali. Ссылки вида "домен/tools/tool_name"
+-   **Метаданные**: Title: "Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution". Description: "Kali Linux is the most advanced penetration testing and security auditing Linux distribution, used by security professionals and ethical hackers."
 -   **Код страниц**: анализ HTML, CSS и JavaScript кода.
--   **Используемые библиотеки и плагины**: список библиотек (например, jQuery) и установленных плагинов.
+-   **Используемые библиотеки и плагины**: jQuery, плагины для документации и интерфейса
 
 5. Безопасность
 
